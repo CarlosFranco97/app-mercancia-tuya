@@ -1,4 +1,4 @@
-import imgUser from './assets/usuario.png'
+import imgUser from '../assets/usuario.png'
 function MenuLateral() {
   return (
     <aside className="panel-control-aside">
@@ -6,7 +6,7 @@ function MenuLateral() {
         <img src={imgUser} alt="Logo" />
       </div>
       <nav>
-        <a href=""></a>
+        <a href=""></a> 
         <a href=""></a>
         <a href=""></a>
         <a href=""></a>
